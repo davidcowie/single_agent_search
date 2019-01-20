@@ -1,0 +1,189 @@
+﻿  main.cpp
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\STPState.h(96): warning C4244: '+=': conversion from 'double' to 'uint64_t', possible loss of data
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\STPState.h(101): warning C4244: 'return': conversion from 'uint64_t' to '::size_t', possible loss of data
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\STPState.h(89): warning C4101: 'dual': unreferenced local variable
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\STP.h(69): warning C4018: '<': signed/unsigned mismatch
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\GridWorld.h(84): warning C4018: '<': signed/unsigned mismatch
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\GridWorld.h(88): warning C4018: '<': signed/unsigned mismatch
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\GridWorld.h(108): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+main.cpp(264): warning C4018: '<': signed/unsigned mismatch
+main.cpp(285): warning C4018: '<': signed/unsigned mismatch
+main.cpp(287): warning C4018: '<': signed/unsigned mismatch
+main.cpp(298): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+main.cpp(328): warning C4018: '<': signed/unsigned mismatch
+main.cpp(354): warning C4018: '<': signed/unsigned mismatch
+main.cpp(604): warning C4018: '<': signed/unsigned mismatch
+main.cpp(612): warning C4018: '<': signed/unsigned mismatch
+main.cpp(769): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+main.cpp(762): warning C4101: 'nbfs': unreferenced local variable
+main.cpp(761): warning C4101: 'dfid': unreferenced local variable
+main.cpp(891): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(905): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(920): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(932): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(941): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(952): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(963): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(974): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(988): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(1000): warning C4018: '<': signed/unsigned mismatch
+main.cpp(903): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'uint64_t'
+  main.cpp(903): note: consider using '%lld' in the format string
+  main.cpp(903): note: consider using '%I64d' in the format string
+main.cpp(915): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'uint64_t'
+  main.cpp(915): note: consider using '%lld' in the format string
+  main.cpp(915): note: consider using '%I64d' in the format string
+main.cpp(950): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'uint64_t'
+  main.cpp(950): note: consider using '%lld' in the format string
+  main.cpp(950): note: consider using '%I64d' in the format string
+main.cpp(972): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'uint64_t'
+  main.cpp(972): note: consider using '%lld' in the format string
+  main.cpp(972): note: consider using '%I64d' in the format string
+main.cpp(986): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'uint64_t'
+  main.cpp(986): note: consider using '%lld' in the format string
+  main.cpp(986): note: consider using '%I64d' in the format string
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\CanonicalAStar.h(281): warning C4244: 'initializing': conversion from 'uint64_t' to 'int', possible loss of data
+  c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\CanonicalAStar.h(215): note: while compiling class template member function 'void CanonicalAStar<GridWorld,GridWorldState,GridWorldMovements>::GetPath3(E &,S,S &,Heuristic<GridWorldState> *,bool,O)'
+          with
+          [
+              E=GridWorld,
+              S=GridWorldState,
+              O=GridWorldMovements
+          ]
+  main.cpp(459): note: see reference to function template instantiation 'void CanonicalAStar<GridWorld,GridWorldState,GridWorldMovements>::GetPath3(E &,S,S &,Heuristic<GridWorldState> *,bool,O)' being compiled
+          with
+          [
+              E=GridWorld,
+              S=GridWorldState,
+              O=GridWorldMovements
+          ]
+  c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\DifferentialHeuristic.h(26): note: see reference to class template instantiation 'CanonicalAStar<GridWorld,GridWorldState,GridWorldMovements>' being compiled
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\CanonicalAStar.h(340): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\CanonicalAStar.h(341): warning C4244: 'argument': conversion from 'uint64_t' to 'int', possible loss of data
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\CanonicalAStar.h(492): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\CanonicalAStar.h(376): note: while compiling class template member function 'void CanonicalAStar<GridWorld,GridWorldState,GridWorldMovements>::JumpPointSearch(E &,S,S &,Heuristic<GridWorldState> *,bool,O)'
+          with
+          [
+              E=GridWorld,
+              S=GridWorldState,
+              O=GridWorldMovements
+          ]
+  main.cpp(472): note: see reference to function template instantiation 'void CanonicalAStar<GridWorld,GridWorldState,GridWorldMovements>::JumpPointSearch(E &,S,S &,Heuristic<GridWorldState> *,bool,O)' being compiled
+          with
+          [
+              E=GridWorld,
+              S=GridWorldState,
+              O=GridWorldMovements
+          ]
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\CanonicalAStar.h(557): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\MaxHeuristic.h(26): warning C4018: '<': signed/unsigned mismatch
+  c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\MaxHeuristic.h(24): note: while compiling class template member function 'float MaxHeuristic<GridWorldState>::h(const S &,const S &)'
+          with
+          [
+              S=GridWorldState
+          ]
+  main.cpp(298): note: see reference to function template instantiation 'float MaxHeuristic<GridWorldState>::h(const S &,const S &)' being compiled
+          with
+          [
+              S=GridWorldState
+          ]
+  main.cpp(235): note: see reference to class template instantiation 'MaxHeuristic<GridWorldState>' being compiled
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\AStar.h(284): warning C4244: 'initializing': conversion from 'uint64_t' to 'int', possible loss of data
+  c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\AStar.h(219): note: while compiling class template member function 'void AStar<GridWorld,GridWorldState,GridWorldMovements>::GetPath3(E &,S,S &,Heuristic<GridWorldState> *,bool,O)'
+          with
+          [
+              E=GridWorld,
+              S=GridWorldState,
+              O=GridWorldMovements
+          ]
+  main.cpp(420): note: see reference to function template instantiation 'void AStar<GridWorld,GridWorldState,GridWorldMovements>::GetPath3(E &,S,S &,Heuristic<GridWorldState> *,bool,O)' being compiled
+          with
+          [
+              E=GridWorld,
+              S=GridWorldState,
+              O=GridWorldMovements
+          ]
+  main.cpp(361): note: see reference to class template instantiation 'AStar<GridWorld,GridWorldState,GridWorldMovements>' being compiled
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\AStar.h(336): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\AStar.h(337): warning C4244: 'argument': conversion from 'uint64_t' to 'int', possible loss of data
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\ManhattanDistance.h(74): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\ManhattanDistance.h(39): note: while compiling class template member function 'float ManhattanDistance<STPState>::h(const STPState &,const STPState &)'
+  main.cpp(757): note: see reference to class template instantiation 'ManhattanDistance<STPState>' being compiled
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\OpenList.h(242): warning C4018: '<': signed/unsigned mismatch
+  c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\OpenList.h(235): note: while compiling class template member function 'void OpenList<S,O>::minHeapify(int)'
+          with
+          [
+              S=GridWorldState,
+              O=GridWorldMovements
+          ]
+  c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\OpenList.h(183): note: see reference to function template instantiation 'void OpenList<S,O>::minHeapify(int)' being compiled
+          with
+          [
+              S=GridWorldState,
+              O=GridWorldMovements
+          ]
+  c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\OpenList.h(94): note: while compiling class template member function 'void OpenList<S,O>::insert(inAStarStruct<S,O>)'
+          with
+          [
+              S=GridWorldState,
+              O=GridWorldMovements
+          ]
+  c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\CanonicalAStar.h(235): note: see reference to function template instantiation 'void OpenList<S,O>::insert(inAStarStruct<S,O>)' being compiled
+          with
+          [
+              S=GridWorldState,
+              O=GridWorldMovements
+          ]
+  c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\CanonicalAStar.h(64): note: while compiling class template member function 'CanonicalAStar<GridWorld,GridWorldState,GridWorldMovements>::CanonicalAStar(void)'
+  main.cpp(362): note: see reference to function template instantiation 'CanonicalAStar<GridWorld,GridWorldState,GridWorldMovements>::CanonicalAStar(void)' being compiled
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\OpenList.h(245): warning C4018: '<': signed/unsigned mismatch
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\include\type_traits(16707566): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\include\functional(16707566): note: see reference to function template instantiation '_Rx std::_Invoker_ret<_Rx,false>::_Call<int(__cdecl *&)(STP &,STPState &),STP&,STPState&>(int (__cdecl *&)(STP &,STPState &),STP &,STPState &)' being compiled
+          with
+          [
+              _Rx=float
+          ]
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\include\functional(16707566): note: see reference to function template instantiation '_Rx std::_Invoker_ret<_Rx,false>::_Call<int(__cdecl *&)(STP &,STPState &),STP&,STPState&>(int (__cdecl *&)(STP &,STPState &),STP &,STPState &)' being compiled
+          with
+          [
+              _Rx=float
+          ]
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\include\functional(15732480): note: while compiling class template member function 'float std::_Func_impl_no_alloc<int (__cdecl *)(STP &,STPState &),_Ret,STP &,STPState &>::_Do_call(STP &,STPState &)'
+          with
+          [
+              _Ret=float
+          ]
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\include\functional(261): note: see reference to class template instantiation 'std::_Func_impl_no_alloc<int (__cdecl *)(STP &,STPState &),_Ret,STP &,STPState &>' being compiled
+          with
+          [
+              _Ret=float
+          ]
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\include\functional(513): note: see reference to class template instantiation 'std::_Is_large<_Impl>' being compiled
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\include\functional(702): note: see reference to function template instantiation 'void std::_Func_class<_Ret,STP &,STPState &>::_Reset<int(__cdecl *)(STP &,STPState &)>(_Fx &&)' being compiled
+          with
+          [
+              _Ret=float,
+              _Fx=int (__cdecl *)(STP &,STPState &)
+          ]
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\include\functional(702): note: see reference to function template instantiation 'void std::_Func_class<_Ret,STP &,STPState &>::_Reset<int(__cdecl *)(STP &,STPState &)>(_Fx &&)' being compiled
+          with
+          [
+              _Ret=float,
+              _Fx=int (__cdecl *)(STP &,STPState &)
+          ]
+  main.cpp(763): note: see reference to function template instantiation 'std::function<float (STP &,STPState &)>::function<int(__cdecl *)(STP &,STPState &),void>(_Fx)' being compiled
+          with
+          [
+              _Fx=int (__cdecl *)(STP &,STPState &)
+          ]
+  main.cpp(763): note: see reference to function template instantiation 'std::function<float (STP &,STPState &)>::function<int(__cdecl *)(STP &,STPState &),void>(_Fx)' being compiled
+          with
+          [
+              _Fx=int (__cdecl *)(STP &,STPState &)
+          ]
+  Generating code
+  3 of 2309 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  DifferentialHeuristicHW.vcxproj -> C:\Users\david\OneDrive\CollegeJunior\SpringQuarter\SingleAgentSearch\Homework7DifferentialHeuristics\DifferentialHeuristicHW\Release\DifferentialHeuristicHW.exe

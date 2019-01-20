@@ -1,0 +1,332 @@
+﻿  main.cpp
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\stpstate.h(96): warning C4244: '+=': conversion from 'double' to 'uint64_t', possible loss of data
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\stpstate.h(101): warning C4244: 'return': conversion from 'uint64_t' to '::size_t', possible loss of data
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\stpstate.h(89): warning C4101: 'dual': unreferenced local variable
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\stp.h(69): warning C4018: '<': signed/unsigned mismatch
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\gridworld.h(84): warning C4018: '<': signed/unsigned mismatch
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\gridworld.h(88): warning C4018: '<': signed/unsigned mismatch
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\main.cpp(215): warning C4018: '<': signed/unsigned mismatch
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\main.cpp(468): warning C4018: '<': signed/unsigned mismatch
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\main.cpp(585): warning C4101: 'nbfs': unreferenced local variable
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\main.cpp(584): warning C4101: 'dfid': unreferenced local variable
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\main.cpp(710): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\main.cpp(724): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\main.cpp(739): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\main.cpp(751): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\main.cpp(760): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\main.cpp(771): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\main.cpp(782): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\main.cpp(793): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\main.cpp(807): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\main.cpp(819): warning C4018: '<': signed/unsigned mismatch
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\main.cpp(722): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'uint64_t'
+  c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\main.cpp(722): note: consider using '%lld' in the format string
+  c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\main.cpp(722): note: consider using '%I64d' in the format string
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\main.cpp(734): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'uint64_t'
+  c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\main.cpp(734): note: consider using '%lld' in the format string
+  c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\main.cpp(734): note: consider using '%I64d' in the format string
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\main.cpp(769): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'uint64_t'
+  c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\main.cpp(769): note: consider using '%lld' in the format string
+  c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\main.cpp(769): note: consider using '%I64d' in the format string
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\main.cpp(791): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'uint64_t'
+  c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\main.cpp(791): note: consider using '%lld' in the format string
+  c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\main.cpp(791): note: consider using '%I64d' in the format string
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\main.cpp(805): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'uint64_t'
+  c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\main.cpp(805): note: consider using '%lld' in the format string
+  c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\main.cpp(805): note: consider using '%I64d' in the format string
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\astar.h(283): warning C4244: 'initializing': conversion from 'uint64_t' to 'int', possible loss of data
+  c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\astar.h(219): note: while compiling class template member function 'void AStar<GridWorld,GridWorldState,GridWorldMovements>::GetPath3(E &,S,S &,Heuristic<GridWorldState> *,bool,O)'
+          with
+          [
+              E=GridWorld,
+              S=GridWorldState,
+              O=GridWorldMovements
+          ]
+  c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\main.cpp(285): note: see reference to function template instantiation 'void AStar<GridWorld,GridWorldState,GridWorldMovements>::GetPath3(E &,S,S &,Heuristic<GridWorldState> *,bool,O)' being compiled
+          with
+          [
+              E=GridWorld,
+              S=GridWorldState,
+              O=GridWorldMovements
+          ]
+  c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\differentialheuristic.h(24): note: see reference to class template instantiation 'AStar<GridWorld,GridWorldState,GridWorldMovements>' being compiled
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\astar.h(334): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\astar.h(335): warning C4244: 'argument': conversion from 'uint64_t' to 'int', possible loss of data
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\maxheuristic.h(26): warning C4018: '<': signed/unsigned mismatch
+  c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\maxheuristic.h(24): note: while compiling class template member function 'float MaxHeuristic<GridWorldState>::h(const S &,const S &)'
+          with
+          [
+              S=GridWorldState
+          ]
+  c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\main.cpp(213): note: see reference to class template instantiation 'MaxHeuristic<GridWorldState>' being compiled
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\canonicalastar.h(279): warning C4244: 'initializing': conversion from 'uint64_t' to 'int', possible loss of data
+  c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\canonicalastar.h(215): note: while compiling class template member function 'void CanonicalAStar<GridWorld,GridWorldState,GridWorldMovements>::GetPath3(E &,S,S &,Heuristic<GridWorldState> *,bool,O)'
+          with
+          [
+              E=GridWorld,
+              S=GridWorldState,
+              O=GridWorldMovements
+          ]
+  c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\main.cpp(324): note: see reference to function template instantiation 'void CanonicalAStar<GridWorld,GridWorldState,GridWorldMovements>::GetPath3(E &,S,S &,Heuristic<GridWorldState> *,bool,O)' being compiled
+          with
+          [
+              E=GridWorld,
+              S=GridWorldState,
+              O=GridWorldMovements
+          ]
+  c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\main.cpp(223): note: see reference to class template instantiation 'CanonicalAStar<GridWorld,GridWorldState,GridWorldMovements>' being compiled
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\canonicalastar.h(337): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\canonicalastar.h(338): warning C4244: 'argument': conversion from 'uint64_t' to 'int', possible loss of data
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\canonicalastar.h(489): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\canonicalastar.h(373): note: while compiling class template member function 'void CanonicalAStar<GridWorld,GridWorldState,GridWorldMovements>::JumpPointSearch(E &,S,S &,Heuristic<GridWorldState> *,bool,O)'
+          with
+          [
+              E=GridWorld,
+              S=GridWorldState,
+              O=GridWorldMovements
+          ]
+  c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\main.cpp(337): note: see reference to function template instantiation 'void CanonicalAStar<GridWorld,GridWorldState,GridWorldMovements>::JumpPointSearch(E &,S,S &,Heuristic<GridWorldState> *,bool,O)' being compiled
+          with
+          [
+              E=GridWorld,
+              S=GridWorldState,
+              O=GridWorldMovements
+          ]
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\canonicalastar.h(554): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\manhattandistance.h(74): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\manhattandistance.h(39): note: while compiling class template member function 'float ManhattanDistance<STPState>::h(const STPState &,const STPState &)'
+  c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\main.cpp(580): note: see reference to class template instantiation 'ManhattanDistance<STPState>' being compiled
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\openlist.h(242): warning C4018: '<': signed/unsigned mismatch
+  c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\openlist.h(235): note: while compiling class template member function 'void OpenList<S,O>::minHeapify(int)'
+          with
+          [
+              S=GridWorldState,
+              O=GridWorldMovements
+          ]
+  c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\openlist.h(183): note: see reference to function template instantiation 'void OpenList<S,O>::minHeapify(int)' being compiled
+          with
+          [
+              S=GridWorldState,
+              O=GridWorldMovements
+          ]
+  c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\openlist.h(94): note: while compiling class template member function 'void OpenList<S,O>::insert(inAStarStruct<S,O>)'
+          with
+          [
+              S=GridWorldState,
+              O=GridWorldMovements
+          ]
+  c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\astar.h(237): note: see reference to function template instantiation 'void OpenList<S,O>::insert(inAStarStruct<S,O>)' being compiled
+          with
+          [
+              S=GridWorldState,
+              O=GridWorldMovements
+          ]
+  c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\astar.h(68): note: while compiling class template member function 'AStar<GridWorld,GridWorldState,GridWorldMovements>::AStar(void)'
+  c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\main.cpp(222): note: see reference to function template instantiation 'AStar<GridWorld,GridWorldState,GridWorldMovements>::AStar(void)' being compiled
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\openlist.h(245): warning C4018: '<': signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.12.25827\include\type_traits(16707566): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.12.25827\include\functional(16707566): note: see reference to function template instantiation '_Rx std::_Invoker_ret<_Rx,false>::_Call<int(__cdecl *&)(STP &,STPState &),STP&,STPState&>(int (__cdecl *&)(STP &,STPState &),STP &,STPState &)' being compiled
+          with
+          [
+              _Rx=float
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.12.25827\include\functional(16707566): note: see reference to function template instantiation '_Rx std::_Invoker_ret<_Rx,false>::_Call<int(__cdecl *&)(STP &,STPState &),STP&,STPState&>(int (__cdecl *&)(STP &,STPState &),STP &,STPState &)' being compiled
+          with
+          [
+              _Rx=float
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.12.25827\include\functional(15732480): note: while compiling class template member function 'float std::_Func_impl_no_alloc<int (__cdecl *)(STP &,STPState &),_Ret,STP &,STPState &>::_Do_call(STP &,STPState &)'
+          with
+          [
+              _Ret=float
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.12.25827\include\functional(261): note: see reference to class template instantiation 'std::_Func_impl_no_alloc<int (__cdecl *)(STP &,STPState &),_Ret,STP &,STPState &>' being compiled
+          with
+          [
+              _Ret=float
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.12.25827\include\functional(513): note: see reference to class template instantiation 'std::_Is_large<_Impl>' being compiled
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.12.25827\include\functional(702): note: see reference to function template instantiation 'void std::_Func_class<_Ret,STP &,STPState &>::_Reset<int(__cdecl *)(STP &,STPState &)>(_Fx &&)' being compiled
+          with
+          [
+              _Ret=float,
+              _Fx=int (__cdecl *)(STP &,STPState &)
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.12.25827\include\functional(702): note: see reference to function template instantiation 'void std::_Func_class<_Ret,STP &,STPState &>::_Reset<int(__cdecl *)(STP &,STPState &)>(_Fx &&)' being compiled
+          with
+          [
+              _Ret=float,
+              _Fx=int (__cdecl *)(STP &,STPState &)
+          ]
+  c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\main.cpp(586): note: see reference to function template instantiation 'std::function<float (STP &,STPState &)>::function<int(__cdecl *)(STP &,STPState &),void>(_Fx)' being compiled
+          with
+          [
+              _Fx=int (__cdecl *)(STP &,STPState &)
+          ]
+  c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\main.cpp(586): note: see reference to function template instantiation 'std::function<float (STP &,STPState &)>::function<int(__cdecl *)(STP &,STPState &),void>(_Fx)' being compiled
+          with
+          [
+              _Fx=int (__cdecl *)(STP &,STPState &)
+          ]
+  GridWorld.cpp
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\gridworld.h(84): warning C4018: '<': signed/unsigned mismatch
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\gridworld.h(88): warning C4018: '<': signed/unsigned mismatch
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\gridworld.cpp(58): warning C4101: 'height': unreferenced local variable
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\gridworld.cpp(72): warning C4101: 'width': unreferenced local variable
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\gridworld.cpp(606): warning C4018: '<': signed/unsigned mismatch
+  DifferentialHeuristic.cpp
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\stpstate.h(96): warning C4244: '+=': conversion from 'double' to 'uint64_t', possible loss of data
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\stpstate.h(101): warning C4244: 'return': conversion from 'uint64_t' to '::size_t', possible loss of data
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\stpstate.h(89): warning C4101: 'dual': unreferenced local variable
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\gridworld.h(84): warning C4018: '<': signed/unsigned mismatch
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\gridworld.h(88): warning C4018: '<': signed/unsigned mismatch
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\astar.h(97): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\astar.h(82): note: while compiling class template member function 'void AStar<GridWorld,GridWorldState,GridWorldMovements>::GetPath(E &,S,S &,Heuristic<GridWorldState> **,int,bool,O)'
+          with
+          [
+              E=GridWorld,
+              S=GridWorldState,
+              O=GridWorldMovements
+          ]
+  c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\differentialheuristic.cpp(114): note: see reference to function template instantiation 'void AStar<GridWorld,GridWorldState,GridWorldMovements>::GetPath(E &,S,S &,Heuristic<GridWorldState> **,int,bool,O)' being compiled
+          with
+          [
+              E=GridWorld,
+              S=GridWorldState,
+              O=GridWorldMovements
+          ]
+  c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\differentialheuristic.h(24): note: see reference to class template instantiation 'AStar<GridWorld,GridWorldState,GridWorldMovements>' being compiled
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\astar.h(99): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\astar.h(144): warning C4244: 'initializing': conversion from 'uint64_t' to 'int', possible loss of data
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\astar.h(188): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\astar.h(189): warning C4244: 'argument': conversion from 'uint64_t' to 'int', possible loss of data
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\astar.h(283): warning C4244: 'initializing': conversion from 'uint64_t' to 'int', possible loss of data
+  c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\astar.h(219): note: while compiling class template member function 'void AStar<GridWorld,GridWorldState,GridWorldMovements>::GetPath3(E &,S,S &,Heuristic<GridWorldState> *,bool,O)'
+          with
+          [
+              E=GridWorld,
+              S=GridWorldState,
+              O=GridWorldMovements
+          ]
+  c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\differentialheuristic.cpp(27): note: see reference to function template instantiation 'void AStar<GridWorld,GridWorldState,GridWorldMovements>::GetPath3(E &,S,S &,Heuristic<GridWorldState> *,bool,O)' being compiled
+          with
+          [
+              E=GridWorld,
+              S=GridWorldState,
+              O=GridWorldMovements
+          ]
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\astar.h(334): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\astar.h(335): warning C4244: 'argument': conversion from 'uint64_t' to 'int', possible loss of data
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\maxheuristic.h(26): warning C4018: '<': signed/unsigned mismatch
+  c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\maxheuristic.h(24): note: while compiling class template member function 'float MaxHeuristic<GridWorldState>::h(const S &,const S &)'
+          with
+          [
+              S=GridWorldState
+          ]
+  c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\differentialheuristic.cpp(23): note: see reference to class template instantiation 'MaxHeuristic<GridWorldState>' being compiled
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\openlist.h(242): warning C4018: '<': signed/unsigned mismatch
+  c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\openlist.h(235): note: while compiling class template member function 'void OpenList<S,O>::minHeapify(int)'
+          with
+          [
+              S=GridWorldState,
+              O=GridWorldMovements
+          ]
+  c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\openlist.h(183): note: see reference to function template instantiation 'void OpenList<S,O>::minHeapify(int)' being compiled
+          with
+          [
+              S=GridWorldState,
+              O=GridWorldMovements
+          ]
+  c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\openlist.h(94): note: while compiling class template member function 'void OpenList<S,O>::insert(inAStarStruct<S,O>)'
+          with
+          [
+              S=GridWorldState,
+              O=GridWorldMovements
+          ]
+  c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\astar.h(105): note: see reference to function template instantiation 'void OpenList<S,O>::insert(inAStarStruct<S,O>)' being compiled
+          with
+          [
+              S=GridWorldState,
+              O=GridWorldMovements
+          ]
+  c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\astar.h(68): note: while compiling class template member function 'AStar<GridWorld,GridWorldState,GridWorldMovements>::AStar(void)'
+  c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\differentialheuristic.cpp(6): note: see reference to function template instantiation 'AStar<GridWorld,GridWorldState,GridWorldMovements>::AStar(void)' being compiled
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\openlist.h(245): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Compiling...
+  PDB.cpp
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\stpstate.h(96): warning C4244: '+=': conversion from 'double' to 'uint64_t', possible loss of data
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\stpstate.h(101): warning C4244: 'return': conversion from 'uint64_t' to '::size_t', possible loss of data
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\stpstate.h(89): warning C4101: 'dual': unreferenced local variable
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\stp.h(69): warning C4018: '<': signed/unsigned mismatch
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\gridworld.h(84): warning C4018: '<': signed/unsigned mismatch
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\gridworld.h(88): warning C4018: '<': signed/unsigned mismatch
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\pdb.cpp(34): warning C4018: '<': signed/unsigned mismatch
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\pdb.cpp(45): warning C4018: '<': signed/unsigned mismatch
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\pdb.cpp(113): warning C4244: 'argument': conversion from 'uint64_t' to 'const unsigned int', possible loss of data
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\pdb.cpp(145): warning C4244: 'argument': conversion from 'uint64_t' to 'const unsigned int', possible loss of data
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\pdb.cpp(148): warning C4244: 'argument': conversion from 'uint64_t' to 'const unsigned int', possible loss of data
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\pdb.cpp(181): warning C4018: '<': signed/unsigned mismatch
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\pdb.cpp(197): warning C4018: '<': signed/unsigned mismatch
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\pdb.cpp(225): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'uint64_t'
+  c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\pdb.cpp(225): note: consider using '%lld' in the format string
+  c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\pdb.cpp(225): note: consider using '%I64d' in the format string
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\pdb.cpp(262): warning C4018: '<': signed/unsigned mismatch
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\pdb.cpp(340): warning C4018: '<': signed/unsigned mismatch
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\pdb.cpp(360): warning C4018: '<': signed/unsigned mismatch
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\pdb.cpp(362): warning C4018: '<': signed/unsigned mismatch
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\pdb.cpp(392): warning C4244: 'argument': conversion from 'uint64_t' to 'const unsigned int', possible loss of data
+  OctileHeuristic.cpp
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\stpstate.h(96): warning C4244: '+=': conversion from 'double' to 'uint64_t', possible loss of data
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\stpstate.h(101): warning C4244: 'return': conversion from 'uint64_t' to '::size_t', possible loss of data
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\stpstate.h(89): warning C4101: 'dual': unreferenced local variable
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\gridworld.h(84): warning C4018: '<': signed/unsigned mismatch
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\gridworld.h(88): warning C4018: '<': signed/unsigned mismatch
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\octileheuristic.cpp(7): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\octileheuristic.cpp(16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\octileheuristic.cpp(17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\octileheuristic.cpp(21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\octileheuristic.cpp(33): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\octileheuristic.cpp(41): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  MaxHeuristic.cpp
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\stpstate.h(96): warning C4244: '+=': conversion from 'double' to 'uint64_t', possible loss of data
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\stpstate.h(101): warning C4244: 'return': conversion from 'uint64_t' to '::size_t', possible loss of data
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\stpstate.h(89): warning C4101: 'dual': unreferenced local variable
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\gridworld.h(84): warning C4018: '<': signed/unsigned mismatch
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\gridworld.h(88): warning C4018: '<': signed/unsigned mismatch
+  ManhattanDistance.cpp
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\stpstate.h(96): warning C4244: '+=': conversion from 'double' to 'uint64_t', possible loss of data
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\stpstate.h(101): warning C4244: 'return': conversion from 'uint64_t' to '::size_t', possible loss of data
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\stpstate.h(89): warning C4101: 'dual': unreferenced local variable
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\gridworld.h(84): warning C4018: '<': signed/unsigned mismatch
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\gridworld.h(88): warning C4018: '<': signed/unsigned mismatch
+  IDAStar.cpp
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\stpstate.h(96): warning C4244: '+=': conversion from 'double' to 'uint64_t', possible loss of data
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\stpstate.h(101): warning C4244: 'return': conversion from 'uint64_t' to '::size_t', possible loss of data
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\stpstate.h(89): warning C4101: 'dual': unreferenced local variable
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\stp.h(69): warning C4018: '<': signed/unsigned mismatch
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\gridworld.h(84): warning C4018: '<': signed/unsigned mismatch
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\gridworld.h(88): warning C4018: '<': signed/unsigned mismatch
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\idastar.cpp(101): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\idastar.cpp(107): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\idastar.cpp(107): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\idastar.cpp(163): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\idastar.cpp(164): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\idastar.cpp(165): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\idastar.cpp(177): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\idastar.cpp(184): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\idastar.cpp(223): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\idastar.cpp(224): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\idastar.cpp(225): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\idastar.cpp(236): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\idastar.cpp(242): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\idastar.cpp(244): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\idastar.cpp(250): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  AStar.cpp
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\stpstate.h(96): warning C4244: '+=': conversion from 'double' to 'uint64_t', possible loss of data
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\stpstate.h(101): warning C4244: 'return': conversion from 'uint64_t' to '::size_t', possible loss of data
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\stpstate.h(89): warning C4101: 'dual': unreferenced local variable
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\gridworld.h(84): warning C4018: '<': signed/unsigned mismatch
+c:\users\david\onedrive\collegejunior\springquarter\singleagentsearch\homework7differentialheuristics\differentialheuristichw\differentialheuristichw\gridworld.h(88): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  DifferentialHeuristicHW.vcxproj -> C:\Users\david\OneDrive\CollegeJunior\SpringQuarter\SingleAgentSearch\Homework7DifferentialHeuristics\DifferentialHeuristicHW\Debug\DifferentialHeuristicHW.exe
